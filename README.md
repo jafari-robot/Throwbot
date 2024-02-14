@@ -1,0 +1,3 @@
+# Throwbot
+ A sample throwable military robot for a competition.
+Soon ... It will be updated ...
